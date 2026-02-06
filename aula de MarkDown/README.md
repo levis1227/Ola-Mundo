@@ -1,5 +1,7 @@
 # Tipos de Markdown
 
+texto normal
+
 **negrito**
 
 __negrito__
@@ -61,3 +63,43 @@ Lista de Tarefas:
 # Links
 
 [Acesse esse vídeo](https://youtube.com/shorts/Pg8Md_7oV-M?si=wKP2FFNIRdOEesA8)
+
+# Imagens
+
+recomendado até 500 pixel, arraste a imagem do seu pc e coloque nesse chat que o programa vai gerar o comando
+
+<img width="522" height="268" alt="maquina (1)" src="https://github.com/user-attachments/assets/cee91036-36f0-4cbc-8db1-cf503caa70cb" />
+
+# Tabelas
+
+Num | Nome | Nota
+---|---|--- 
+1 | Gustavo | 8,5
+2 | José | 10,0
+3 | Maria | 9,0
+
+terminou a tabela
+
+# Crase
+
+identificar comando
+
+
+Não entendo direito para que serve o comando `document.getElementByld()` da linguagem JavaScript. 
+
+
+Olha meu programa em Python
+```
+num = int(input('Digite um valor:'))
+if num % 2 == 0:
+   print(f'O valor {num} é PAR')
+else:
+   print(f'O valor {num} é ÍMPAR')
+```
+
+OBS: dá pra por uma print do cod direto tbm
+
+
+# Emoji
+
+[Nome de todos os emojis disponíveis](https://github.com/ikatyang/emoji-cheat-sheet)
